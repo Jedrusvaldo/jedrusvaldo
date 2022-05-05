@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Data science e fazendo faculdade de Ciência da computação;
 - 📫 contate-me no email: vitordanyelvd@gmail.com;
-- 😄 Pronouns: Ele/Dele.
+- 😄 Pronomes: Ele/Dele.
 
 
 <div align="center">
